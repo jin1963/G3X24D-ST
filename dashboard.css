@@ -1,0 +1,26 @@
+body {
+  background-color: #180b2c;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+.logo {
+  width: 150px;
+  margin-top: 30px;
+}
+button {
+  background-color: #f39c12;
+  color: #000;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  margin-top: 15px;
+}
+.dashboard {
+  background-color: #1b1035;
+  display: inline-block;
+  padding: 20px 50px;
+  border-radius: 10px;
+  margin-top: 50px;
+}
